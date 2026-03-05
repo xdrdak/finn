@@ -1,0 +1,21 @@
+{
+  "name": "finn",
+  "version": "1.0.0",
+  "description": "Module graph explorer for TypeScript/JavaScript projects. TUI-first.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xdrdak/finn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xdrdak/finn/issues"
+  },
+  "homepage": "https://github.com/xdrdak/finn#readme"
+}
